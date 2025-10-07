@@ -10,4 +10,4 @@ Este repositorio contiene los documentos oficiales de **Cat's Bot**:
 - Términos de Servicio (`terms_of_service.html`)
 
 Estos documentos son de uso exclusivo para el bot Cat's Bot.  
-© 2025 Leimar Soto (leimar_fx)
+© 2025 HasthLort's Team (Discord)
