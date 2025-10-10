@@ -15,6 +15,10 @@ Puedes encontrar los siguientes documentos en este repositorio:
 | **Política de Privacidad**  | Detalles sobre la recolección, uso y protección de tu información. |
 | **Términos de Servicio**  | Reglas y responsabilidades que aceptas al interactuar con Cat's Bot. |
 
+
+
+### [🔗 Accede a la pagina web aquí](https://leimsoto.github.io/bot-legal/)
+
 ---
 
 ## ⚖️ Licencia y Propiedad
