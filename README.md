@@ -10,8 +10,8 @@ Nuestro objetivo es ser transparentes contigo sobre cómo usamos y protegemos tu
 
 Puedes encontrar los siguientes documentos en este repositorio:
 
-| Documento | Archivo | Descripción Principal |
-| :--- | :--- | :--- |
+| Documento | Descripción Principal |
+| :--- | :--- |
 | **Política de Privacidad**  | Detalles sobre la recolección, uso y protección de tu información. |
 | **Términos de Servicio**  | Reglas y responsabilidades que aceptas al interactuar con Cat's Bot. |
 
