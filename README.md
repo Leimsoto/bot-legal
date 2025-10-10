@@ -1,13 +1,23 @@
-# bot-legal
-Politicas de privacidad y Terminos de servicio de Hasth' team para el bot Cat's Bot
+# ✨ Cat's Bot - Documentación Legal Oficial
 
+**Hola y bienvenido(a).**
 
-# Cat's Bot - Documentación Legal
+Esta es la fuente oficial y única para toda la documentación legal de **Cat's Bot**, un proyecto desarrollado y mantenido por **HasthLort's Team** en Discord.
 
-Este repositorio contiene los documentos oficiales de **Cat's Bot**:
+Nuestro objetivo es ser transparentes contigo sobre cómo usamos y protegemos tus datos, y cuáles son las reglas al usar nuestro bot.
 
-- Política de Privacidad (`privacy_policy.html`)
-- Términos de Servicio (`terms_of_service.html`)
+## 📝 Documentos Esenciales
 
-Estos documentos son de uso exclusivo para el bot Cat's Bot.  
-© 2025 HasthLort's Team (Discord)
+Puedes encontrar los siguientes documentos en este repositorio:
+
+| Documento | Archivo | Descripción Principal |
+| :--- | :--- | :--- |
+| **Política de Privacidad** | `privacy_policy.html` | Detalles sobre la recolección, uso y protección de tu información. |
+| **Términos de Servicio** | `terms_of_service.html` | Reglas y responsabilidades que aceptas al interactuar con Cat's Bot. |
+
+---
+
+## ⚖️ Licencia y Propiedad
+
+* **Uso Exclusivo:** La información aquí contenida aplica **solamente** a Cat's Bot.
+* **Copyright:** © 2025 HasthLort's Team (Discord). Todos los derechos reservados.
