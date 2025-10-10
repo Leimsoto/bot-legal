@@ -77,7 +77,6 @@ nav a.active {
   color: var(--heading-color);
 }
 
-
 /* --- Content Styles --- */
 main h2 {
   color: var(--heading-color);
@@ -115,4 +114,53 @@ footer {
   border-top: 1px solid var(--border-color);
   font-size: 0.9rem;
   color: #888;
+}
+
+/* --- === NUEVOS ESTILOS AÑADIDOS === --- */
+
+/* --- Hero Section Styles --- */
+.hero {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  background-color: #313338; /* Un gris un poco más oscuro */
+  padding: 30px;
+  border-radius: 8px;
+  margin-bottom: 40px;
+}
+
+.profile-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  border: 3px solid var(--border-color);
+}
+
+.hero-text h2 {
+  margin-top: 0;
+  border-bottom: none;
+  font-size: 1.8rem;
+}
+
+.hero-text p {
+  margin-bottom: 20px;
+}
+
+/* --- Invite Button Styles --- */
+.invite-button {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 12px 25px;
+  border-radius: 5px;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 1rem;
+  transition: background-color 0.3s, transform 0.2s;
+  display: inline-block;
+}
+
+.invite-button:hover {
+  background-color: #4752C4; /* Un azul un poco más oscuro */
+  text-decoration: none;
+  transform: translateY(-2px);
 }
